@@ -53,6 +53,8 @@ require('../includes/_header.php');
 			
 			<p><a href="http://www.nicolastarzia.com">Nicolas Tarzia</a> has translated Eran Sandler&#8217;s C# library into <a href="http://oauth.googlecode.com/svn/code/vbnet/oAuth.vb">VB.NET</a>.</p>
 			
+			<p><a href="mailto:constantin.craus@gmail.com?Subject=OAuth VB.Net Class">Constantin Craus</a> re-converted Eran Sandler&#8217;s C# class and fixed query parameters sorting issue that was missing in the Nicolas Starzia's version. Also he added support for OAuth authorization process (callback and verifier). You can download the class <a href="https://raw.githubusercontent.com/ccraus/oauth/master/OAuthBase.vb">here</a>.</p>
+			
 			<h3>ColdFusion</h3>
 			
 			<p>Harry Klein has contributed a <a href="http://oauth.googlecode.com/svn/code/coldfusion">ColdFusion library</a> which is also <a href="http://OAuth.riaforge.org/">listed</a> at <span class="caps">RIA</span> Forge.</p>
